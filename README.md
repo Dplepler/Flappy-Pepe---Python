@@ -1,2 +1,3 @@
-# Flappy-Pepe---Python
-Game I made a year ago in python. Very cool.
+# Flappy Pepe
+First personal project I did all by myself
+
